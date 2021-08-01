@@ -14,7 +14,6 @@ import java.net.URISyntaxException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 import java.util.function.Supplier;
@@ -142,6 +141,15 @@ public class ${class_name} {
     
         public int nextInt() {
             return Integer.parseInt(next());
+        }
+        
+        @SuppressWarnings("unused")
+        public int[] nextIntArray(final int n) {
+            final int[] a = new int[n];
+            for (int i = 0; i < n; i++) {
+                a[i] = nextInt();
+            }
+            return a;
         }
         
         @SuppressWarnings("unused")
