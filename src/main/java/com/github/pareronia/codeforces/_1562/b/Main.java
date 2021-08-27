@@ -9,14 +9,14 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
-import java.math.BigInteger;
 import java.net.URISyntaxException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Arrays;
 import java.util.List;
+import java.util.Set;
 import java.util.StringTokenizer;
-import java.util.function.Function;
 import java.util.function.Supplier;
 
 /**
@@ -44,65 +44,51 @@ public class Main {
         System.out.println(supplier.get());
     }
 
-    private void powerSet(final String s, final Function<String, Boolean> cont) {
-        final BigInteger size = BigInteger.TWO.pow(s.length());
-        BigInteger i = BigInteger.ONE;
-        while (i.compareTo(size) < 0) {
-            if (!check(s, cont, i)) {
-                return;
-            }
-            i = i.multiply(BigInteger.TWO);
-        }
-        i = BigInteger.ZERO;
-        while (i.compareTo(size) < 0) {
-            if (!check(s, cont, i)) {
-                return;
-            }
-            i = i.add(BigInteger.ONE);
-        }
-    }
-
-    private boolean check(final String s, final Function<String, Boolean> cont, final BigInteger i) {
-        final StringBuilder sb = new StringBuilder();
-        for (int j = 0; j < s.length(); j++) {
-            if (i.and(BigInteger.ONE.shiftLeft(j)).compareTo(BigInteger.ZERO) > 0) {
-                sb.append(s.charAt(j));
-            }
-        }
-        final String ans = sb.toString();
-        if (ans != null && !ans.isEmpty()) {
-            return cont.apply(ans);
-        }
-        return true;
-    }
-    
-    private boolean isPrime(final Long number) {
-        if (number == 1) {
-            return false;
-        }
-        final long start = (int) Math.floor(Math.sqrt(number));
-        for (long i = start; i >= 2; i--) {
-            if (number % i == 0) {
-                return false;
-            }
-        }
-        return true;
-    }
-    
     private void handleTestCase(final Integer i, final FastScanner sc) {
-        sc.nextInt();
-        final String n = sc.next();
-        powerSet(n, t -> {
-            final Long ans = Long.valueOf(t);
-            if (!isPrime(ans)) {
-                this.out.println(t.length());
-                this.out.println(ans);
-                return false;
-            } else {
-                return true;
+        final int n = sc.nextInt();
+        final String s = sc.next();
+        for (int j = 0; j < n; j++) {
+            if (Set.of('1', '4', '6', '8', '9').contains(s.charAt(j))) {
+                this.out.println(1);
+                this.out.println(s.charAt(j));
+                return;
             }
-        });
+        }
+        for (int j = 0; j < n; j++) {
+            final char first = s.charAt(j);
+            final int intfirst = (first - '0') * 10;
+            for (int k = j + 1; k < n; k++) {
+                final char second = s.charAt(k);
+                if (!PRIMES[intfirst + (second - '0')]) {
+                    this.out.println(2);
+                    this.out.print(first);
+                    this.out.println(second);
+                    return;
+                }
+            }
+        }
+        throw new IllegalStateException("Unsolvable");
     }
+    
+    private static class Primes {
+        public static boolean[] get(final int n) {
+            final boolean[] ans = new boolean[n];
+            Arrays.fill(ans, true);
+            ans[0] = false;
+            ans[1] = false;
+            for (int j = 2; j * j <= n; j++) {
+                if (!ans[j]) {
+                    continue;
+                }
+                for (int k = j * j; k < n; k += j) {
+                    ans[k] = false;
+                }
+            }
+            return ans;
+        }
+    }
+    
+    private static final boolean[] PRIMES = Primes.get(100);
     
     public void solve() {
         try (final FastScanner sc = new FastScanner(this.in)) {
