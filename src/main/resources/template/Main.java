@@ -44,6 +44,7 @@ public class ${class_name} {
     
     private void handleTestCase(final Integer i, final FastScanner sc) {
         int ans = 0;
+        this.out.println(ans);
     }
     
     public void solve() {
