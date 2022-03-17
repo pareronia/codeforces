@@ -30,6 +30,7 @@ https://codeforces.com/
 | 102697_024 | [Missed Basketball Game](https://codeforces.com/gym/102697/problem/024) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_024/Main.java) |
 | 102697_025 | [Write It, Do It](https://codeforces.com/gym/102697/problem/025) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_025/Main.java) |
 | 102697_030 | [World Cup (Easier Version)](https://codeforces.com/gym/102697/problem/030) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_030/Main.java) |
+| 102697_031 | [2001: A Space Odyssey](https://codeforces.com/gym/102697/problem/031) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_031/Main.java) |
 | 102697_041 | [World Cup (Harder Version)](https://codeforces.com/gym/102697/problem/041) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_041/Main.java) |
 | 102942_A | [Directional Move](https://codeforces.com/gym/102942/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/a/Main.java) |
 | 102942_B | [Make All Odd](https://codeforces.com/gym/102942/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/b/Main.java) |
