@@ -18,6 +18,10 @@ import java.util.List;
 import java.util.StringTokenizer;
 import java.util.stream.Stream;
 
+/**
+ * A. Way Too Long Words
+ * @see <a href="https://codeforces.com/contest/71/problem/A">https://codeforces.com/contest/71/problem/A</a>
+ */
 public class Main {
 
     private final InputStream in;

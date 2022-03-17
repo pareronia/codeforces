@@ -21,6 +21,10 @@ import java.util.Set;
 import java.util.StringTokenizer;
 import java.util.stream.Stream;
 
+/**
+ * B. Putting Plates
+ * @see <a href="https://codeforces.com/contest/1530/problem/B">https://codeforces.com/contest/1530/problem/B</a>
+ */
 public class Main {
     
     private static final Set<Integer> DR = Set.of(-1, 0, 1);

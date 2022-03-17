@@ -20,6 +20,10 @@ import java.util.StringTokenizer;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
+/**
+ * C. Pursuit
+ * @see <a href="https://codeforces.com/contest/1530/problem/C">https://codeforces.com/contest/1530/problem/C</a>
+ */
 public class Main {
 
     private final boolean sample;

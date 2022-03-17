@@ -16,6 +16,10 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.StringTokenizer;
 
+/**
+ * A. Watermelon
+ * @see <a href="https://codeforces.com/contest/4/problem/A">https://codeforces.com/contest/4/problem/A</a>
+ */
 public class Main {
 
     private final InputStream in;

@@ -18,6 +18,10 @@ import java.util.List;
 import java.util.StringTokenizer;
 import java.util.stream.Stream;
 
+/**
+ * A. Team
+ * @see <a href="https://codeforces.com/contest/231/problem/A">https://codeforces.com/contest/231/problem/A</a>
+ */
 public class Main {
 
     private final boolean sample;

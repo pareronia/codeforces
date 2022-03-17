@@ -19,6 +19,10 @@ import java.util.StringTokenizer;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
+/**
+ * A. Binary Decimal
+ * @see <a href="https://codeforces.com/contest/1530/problem/A">https://codeforces.com/contest/1530/problem/A</a>
+ */
 public class Main {
 
     private final boolean sample;

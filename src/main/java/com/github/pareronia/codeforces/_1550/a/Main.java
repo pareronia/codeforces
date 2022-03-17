@@ -20,6 +20,10 @@ import java.util.StringTokenizer;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
+/**
+ * A. Find The Array
+ * @see <a href="https://codeforces.com/contest/1550/problem/A">https://codeforces.com/contest/1550/problem/A</a>
+ */
 public class Main {
 
     private final boolean sample;
