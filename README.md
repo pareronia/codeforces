@@ -64,6 +64,7 @@ https://codeforces.com/
 | 1561_A | [Simply Strange Sort](https://codeforces.com/contest/1561/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1561/a/Main.java) |
 | 1562_A | [The Miracle and the Sleeper](https://codeforces.com/contest/1562/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1562/a/Main.java) |
 | 1562_B | [Scenes From a Memory](https://codeforces.com/contest/1562/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1562/b/Main.java) |
+| 1567_A | [Domino Disaster](https://codeforces.com/contest/1567/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1567/a/Main.java) |
 | 1635_B | [Avoid Local Maximums](https://codeforces.com/contest/1635/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1635/b/Main.java) |
 | 1646_A | [Square Counting](https://codeforces.com/contest/1646/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1646/a/Main.java) |
 | 1646_B | [Quality vs Quantity](https://codeforces.com/contest/1646/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1646/b/Main.java) |
