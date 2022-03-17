@@ -29,6 +29,7 @@ https://codeforces.com/
 | 102697_023 | [Ping Pong Parachute](https://codeforces.com/gym/102697/problem/023) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_023/Main.java) |
 | 102697_024 | [Missed Basketball Game](https://codeforces.com/gym/102697/problem/024) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_024/Main.java) |
 | 102697_025 | [Write It, Do It](https://codeforces.com/gym/102697/problem/025) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_025/Main.java) |
+| 102697_030 | [World Cup (Easier Version)](https://codeforces.com/gym/102697/problem/030) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_030/Main.java) |
 | 102942_A | [Directional Move](https://codeforces.com/gym/102942/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/a/Main.java) |
 | 102942_B | [Make All Odd](https://codeforces.com/gym/102942/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/b/Main.java) |
 | 102942_C | [Team](https://codeforces.com/gym/102942/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/c/Main.java) |
