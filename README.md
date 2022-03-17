@@ -57,6 +57,7 @@ https://codeforces.com/
 | 1554_B | [Cobb](https://codeforces.com/contest/1554/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1554/b/Main.java) |
 | 1555_A | [PizzaForces](https://codeforces.com/contest/1555/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1555/a/Main.java) |
 | 1555_B | [Two Tables](https://codeforces.com/contest/1555/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1555/b/Main.java) |
+| 1556_A | [A Variety of Operations](https://codeforces.com/contest/1556/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1556/a/Main.java) |
 | 1560_A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1560/a/Main.java) |
 | 1560_B | [Who's Opposite?](https://codeforces.com/contest/1560/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1560/b/Main.java) |
 | 1560_C | [Infinity Table](https://codeforces.com/contest/1560/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/_1560/c/Main.java) |
