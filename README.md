@@ -36,6 +36,7 @@ https://codeforces.com/
 | 102697_037 | [Practice Katanas](https://codeforces.com/gym/102697/problem/037) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_037/Main.java) |
 | 102697_038 | [Unshuffle the Cards](https://codeforces.com/gym/102697/problem/038) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_038/Main.java) |
 | 102697_039 | [Number Code (Easier Version)](https://codeforces.com/gym/102697/problem/039) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_039/Main.java) |
+| 102697_040 | [Valid Sudoku](https://codeforces.com/gym/102697/problem/040) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_040/Main.java) |
 | 102697_041 | [World Cup (Harder Version)](https://codeforces.com/gym/102697/problem/041) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_041/Main.java) |
 | 102697_042 | [Number Code (Harder Version)](https://codeforces.com/gym/102697/problem/042) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_042/Main.java) |
 | 102942_A | [Directional Move](https://codeforces.com/gym/102942/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/a/Main.java) |
