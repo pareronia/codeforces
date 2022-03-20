@@ -39,6 +39,7 @@ https://codeforces.com/
 | 102697_040 | [Valid Sudoku](https://codeforces.com/gym/102697/problem/040) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_040/Main.java) |
 | 102697_041 | [World Cup (Harder Version)](https://codeforces.com/gym/102697/problem/041) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_041/Main.java) |
 | 102697_042 | [Number Code (Harder Version)](https://codeforces.com/gym/102697/problem/042) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_042/Main.java) |
+| 102697_043 | [Low-Budget Flight Paths](https://codeforces.com/gym/102697/problem/043) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_043/Main.java) |
 | 102697_044 | [Yoda Translator](https://codeforces.com/gym/102697/problem/044) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_044/Main.java) |
 | 102697_047 | [Who will win](https://codeforces.com/gym/102697/problem/047) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_047/Main.java) |
 | 102697_048 | [Basic Math](https://codeforces.com/gym/102697/problem/048) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_048/Main.java) |

@@ -1,0 +1,15 @@
+5 56
+Syracuse -> Detroit
+Detroit -> Chicago
+Chicago -> SanFrancisco
+SanFrancisco -> NewYork
+NewYork -> Syracuse
+IMPOSSIBLE
+7 31
+Syracuse -> NewYork
+NewYork -> StLouis
+StLouis -> Portland
+Portland -> LosAngeles
+LosAngeles -> LasVegas
+LasVegas -> SanFrancisco
+SanFrancisco -> Syracuse

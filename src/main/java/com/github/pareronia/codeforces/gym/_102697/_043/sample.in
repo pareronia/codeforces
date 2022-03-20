@@ -1,0 +1,27 @@
+3
+SanFrancisco
+9 120
+Syracuse NewYork 5
+Syracuse Detroit 5
+Syracuse Atlanta 20
+Atlanta Dallas 50
+Dallas SanFrancisco 30
+Detroit Chicago 1
+Chicago SanFrancisco 30
+SanFrancisco NewYork 10
+NewYork Syracuse 10
+NewYork
+3 10
+Syracuse Detroit 9
+Detroit NewYork 1
+NewYork Syracuse 2
+SanFrancisco
+8 1000
+Syracuse SanFrancisco 100
+NewYork StLouis 5
+StLouis Portland 5
+Syracuse NewYork 5
+Portland LosAngeles 5
+LasVegas SanFrancisco 5
+LosAngeles LasVegas 5
+SanFrancisco Syracuse 1
