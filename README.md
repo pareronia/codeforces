@@ -47,6 +47,7 @@ https://codeforces.com/
 | 102697_050 | [The Array Checker-inator!](https://codeforces.com/gym/102697/problem/050) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_050/Main.java) |
 | 102697_051 | [The Convergence of Two Tetra-sided Polygons, Known as Rectangles](https://codeforces.com/gym/102697/problem/051) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_051/Main.java) |
 | 102697_052 | [Passing Notes](https://codeforces.com/gym/102697/problem/052) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_052/Main.java) |
+| 102697_056 | [Stopwatch issues](https://codeforces.com/gym/102697/problem/056) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_056/Main.java) |
 | 102942_A | [Directional Move](https://codeforces.com/gym/102942/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/a/Main.java) |
 | 102942_B | [Make All Odd](https://codeforces.com/gym/102942/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/b/Main.java) |
 | 102942_C | [Team](https://codeforces.com/gym/102942/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/c/Main.java) |
