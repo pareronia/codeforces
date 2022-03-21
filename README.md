@@ -50,6 +50,7 @@ https://codeforces.com/
 | 102697_054 | [When is my meeting?](https://codeforces.com/gym/102697/problem/054) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_054/Main.java) |
 | 102697_056 | [Stopwatch issues](https://codeforces.com/gym/102697/problem/056) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_056/Main.java) |
 | 102697_058 | [Switch Case](https://codeforces.com/gym/102697/problem/058) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_058/Main.java) |
+| 102697_071 | [Days between two Dates](https://codeforces.com/gym/102697/problem/071) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_071/Main.java) |
 | 102942_A | [Directional Move](https://codeforces.com/gym/102942/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/a/Main.java) |
 | 102942_B | [Make All Odd](https://codeforces.com/gym/102942/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/b/Main.java) |
 | 102942_C | [Team](https://codeforces.com/gym/102942/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/c/Main.java) |
