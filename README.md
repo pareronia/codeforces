@@ -101,6 +101,7 @@ https://codeforces.com/
 | 1651_A | [Playoff](https://codeforces.com/contest/1651/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1651/a/Main.java) |
 | 1654_A | [Maximum Cake Tastiness](https://codeforces.com/contest/1654/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1654/a/Main.java) |
 | 1654_C | [Alice and the Cake](https://codeforces.com/contest/1654/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/_1654/c/Main.java) |
+| 1656_A | [Good Pairs](https://codeforces.com/contest/1656/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1656/a/Main.java) |
 | 1657_A | [Integer Moves](https://codeforces.com/contest/1657/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1657/a/Main.java) |
 | 1657_B | [XY Sequence](https://codeforces.com/contest/1657/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1657/b/Main.java) |
 | 1657_C | [Bracket Sequence Deletion](https://codeforces.com/contest/1657/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/_1657/c/Main.java) |
