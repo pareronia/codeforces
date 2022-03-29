@@ -54,6 +54,7 @@ https://codeforces.com/
 | 102697_059 | [Multiply Characters](https://codeforces.com/gym/102697/problem/059) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_059/Main.java) |
 | 102697_060 | [Maximum Number](https://codeforces.com/gym/102697/problem/060) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_060/Main.java) |
 | 102697_061 | [Half Winds](https://codeforces.com/gym/102697/problem/061) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_061/Main.java) |
+| 102697_062 | [Delete Characters](https://codeforces.com/gym/102697/problem/062) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_062/Main.java) |
 | 102697_069 | [Word Rotation](https://codeforces.com/gym/102697/problem/069) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_069/Main.java) |
 | 102697_071 | [Days between two Dates](https://codeforces.com/gym/102697/problem/071) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_071/Main.java) |
 | 102942_A | [Directional Move](https://codeforces.com/gym/102942/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/a/Main.java) |
