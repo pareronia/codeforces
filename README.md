@@ -13,6 +13,7 @@ https://codeforces.com/
 | 0158_A | [Next Round](https://codeforces.com/contest/158/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_0158/a/Main.java) |
 | 0231_A | [Team](https://codeforces.com/contest/231/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_0231/a/Main.java) |
 | 0863_B | [Kayaking](https://codeforces.com/contest/863/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_0863/b/Main.java) |
+| 102694_A | [Circumference of a Tree](https://codeforces.com/gym/102694/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102694/a/Main.java) |
 | 102697_001 | [Square The Number](https://codeforces.com/gym/102697/problem/001) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_001/Main.java) |
 | 102697_002 | [Triple Product](https://codeforces.com/gym/102697/problem/002) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_002/Main.java) |
 | 102697_003 | [Triangle Sum](https://codeforces.com/gym/102697/problem/003) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_003/Main.java) |
