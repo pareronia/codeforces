@@ -56,6 +56,7 @@ https://codeforces.com/
 | 102697_060 | [Maximum Number](https://codeforces.com/gym/102697/problem/060) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_060/Main.java) |
 | 102697_061 | [Half Winds](https://codeforces.com/gym/102697/problem/061) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_061/Main.java) |
 | 102697_062 | [Delete Characters](https://codeforces.com/gym/102697/problem/062) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_062/Main.java) |
+| 102697_063 | [Schwarzschild Radius](https://codeforces.com/gym/102697/problem/063) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_063/Main.java) |
 | 102697_069 | [Word Rotation](https://codeforces.com/gym/102697/problem/069) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_069/Main.java) |
 | 102697_071 | [Days between two Dates](https://codeforces.com/gym/102697/problem/071) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102697/_071/Main.java) |
 | 102942_A | [Directional Move](https://codeforces.com/gym/102942/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/a/Main.java) |
@@ -66,6 +67,7 @@ https://codeforces.com/
 | 103029_A | [John and nuts](https://codeforces.com/gym/103029/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103029/a/Main.java) |
 | 103029_B | [John, Katya](https://codeforces.com/gym/103029/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103029/b/Main.java) |
 | 103029_C | [John, Katya, no nuts](https://codeforces.com/gym/103029/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103029/c/Main.java) |
+| 103647_A | [ Night Nesting](https://codeforces.com/gym/103647/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103647/a/Main.java) |
 | 1097_A | [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1097/a/Main.java) |
 | 1165_B | [Polycarp Training](https://codeforces.com/problemset/problem/1165/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1165/b/Main.java) |
 | 1216_C | [White Sheet](https://codeforces.com/contest/1216/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/_1216/c/Main.java) |
