@@ -68,6 +68,7 @@ https://codeforces.com/
 | 103029_B | [John, Katya](https://codeforces.com/gym/103029/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103029/b/Main.java) |
 | 103029_C | [John, Katya, no nuts](https://codeforces.com/gym/103029/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103029/c/Main.java) |
 | 103647_A | [ Night Nesting](https://codeforces.com/gym/103647/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103647/a/Main.java) |
+| 103647_B | [Friendly Flamingos](https://codeforces.com/gym/103647/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103647/b/Main.java) |
 | 1097_A | [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1097/a/Main.java) |
 | 1165_B | [Polycarp Training](https://codeforces.com/problemset/problem/1165/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1165/b/Main.java) |
 | 1216_C | [White Sheet](https://codeforces.com/contest/1216/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/_1216/c/Main.java) |
