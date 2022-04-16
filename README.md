@@ -75,6 +75,7 @@ https://codeforces.com/
 | 1165_B | [Polycarp Training](https://codeforces.com/problemset/problem/1165/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1165/b/Main.java) |
 | 1216_C | [White Sheet](https://codeforces.com/contest/1216/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/_1216/c/Main.java) |
 | 1234_A | [Equalize Prices Again](https://codeforces.com/contest/1234/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1234/a/Main.java) |
+| 1234_B1 | [Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1) | [Java](src/main/java/com/github/pareronia/codeforces/_1234/b1/Main.java) |
 | 1375_B | [Neighbor Grid](https://codeforces.com/problemset/problem/1375/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1375/b/Main.java) |
 | 1530_A | [Binary Decimal](https://codeforces.com/contest/1530/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1530/a/Main.java) |
 | 1530_B | [Putting Plates](https://codeforces.com/contest/1530/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1530/b/Main.java) |
