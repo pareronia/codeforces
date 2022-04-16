@@ -77,6 +77,7 @@ https://codeforces.com/
 | 1234_A | [Equalize Prices Again](https://codeforces.com/contest/1234/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1234/a/Main.java) |
 | 1234_B1 | [Social Network (easy version)](https://codeforces.com/contest/1234/problem/B1) | [Java](src/main/java/com/github/pareronia/codeforces/_1234/b1/Main.java) |
 | 1234_B2 | [Social Network (hard version)](https://codeforces.com/contest/1234/problem/B2) | [Java](src/main/java/com/github/pareronia/codeforces/_1234/b2/Main.java) |
+| 1234_D | [Distinct Characters Queries](https://codeforces.com/contest/1234/problem/D) | [Java](src/main/java/com/github/pareronia/codeforces/_1234/d/Main.java) |
 | 1375_B | [Neighbor Grid](https://codeforces.com/problemset/problem/1375/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1375/b/Main.java) |
 | 1530_A | [Binary Decimal](https://codeforces.com/contest/1530/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_1530/a/Main.java) |
 | 1530_B | [Putting Plates](https://codeforces.com/contest/1530/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_1530/b/Main.java) |
