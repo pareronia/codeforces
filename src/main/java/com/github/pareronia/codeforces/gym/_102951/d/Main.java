@@ -13,9 +13,8 @@ import java.net.URISyntaxException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.HashMap;
+import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
 import java.util.StringTokenizer;
 
 /**
@@ -35,23 +34,49 @@ public class Main {
     private void handleTestCase(final Integer i, final FastScanner sc) {
         final int n = sc.nextInt();
         final int q = sc.nextInt();
-        final Map<Integer, Long> map = new HashMap<>();
+        final int[] a = new int[(n + q) * 2];
+        final int[][] us = new int[n][3];
+        final int[][] qs = new int[n][2];
         for (int j = 0; j < n; j++) {
             final int l = sc.nextInt();
             final int r = sc.nextInt();
             final int v = sc.nextInt();
-            for (int k = l; k < r; k++) {
-                map.put(k, map.getOrDefault(k, 0L) + v);
-            }
+            a[2 * j] = l;
+            a[2 * j + 1] = r;
+            us[j] = new int[] {l, r, v};
         }
         for (int j = 0; j < q; j++) {
             final int l = sc.nextInt();
             final int r = sc.nextInt();
-            long ans = 0;
-            for (int k = l; k < r; k++) {
-                ans += map.getOrDefault(k, 0L);
-            }
-            this.out.println(ans);
+            a[2 * n + 2 * j] = l;
+            a[2 * n + 2 * j + 1] = r;
+            qs[j] = new int[] {l, r};
+        }
+        Arrays.sort(a);
+        final long[] d = new long[a.length + 1];
+        for (int j = 0; j < n; j++) {
+            final int l = Arrays.binarySearch(a, us[j][0]);
+            final int r = Arrays.binarySearch(a, us[j][1]);
+            final int v = us[j][2];
+            d[l + 1] += v;
+            d[r + 1] -= v;
+        }
+        final long[] w = new long[a.length + 1];
+        for (int j = 0; j < a.length - 1; j++) {
+            w[j + 1] = a[j + 1] - a[j];
+        }
+        final long[] iv = new long[a.length + 1];
+        for (int j = 1; j < a.length; j++) {
+            iv[j] = iv[j - 1] + d[j];
+        }
+        final long[] p = new long[a.length + 1];
+        for (int j = 1; j < a.length; j++) {
+            p[j] = p[j - 1] + w[j] * iv[j];
+        }
+        for (int j = 0; j < q; j++) {
+            final int l = Arrays.binarySearch(a, qs[j][0]);
+            final int r = Arrays.binarySearch(a, qs[j][1]);
+            this.out.println(p[r] - p[l]);
         }
     }
 
