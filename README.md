@@ -65,6 +65,7 @@ https://codeforces.com/
 | 102942_C | [Team](https://codeforces.com/gym/102942/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/c/Main.java) |
 | 102942_D | [XOR Game](https://codeforces.com/gym/102942/problem/D) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102942/d/Main.java) |
 | 102951_A | [Maximum Distance](https://codeforces.com/gym/102951/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102951/a/Main.java) |
+| 102951_D | [Static Range Queries](https://codeforces.com/gym/102951/problem/D) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_102951/d/Main.java) |
 | 103029_A | [John and nuts](https://codeforces.com/gym/103029/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103029/a/Main.java) |
 | 103029_B | [John, Katya](https://codeforces.com/gym/103029/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103029/b/Main.java) |
 | 103029_C | [John, Katya, no nuts](https://codeforces.com/gym/103029/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_103029/c/Main.java) |
