@@ -130,6 +130,7 @@ https://codeforces.com/
 | 1791_E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | [Java](src/main/java/com/github/pareronia/codeforces/_1791/e/Main.java) |
 | 1791_F | [Range Update Point Query](https://codeforces.com/contest/1791/problem/F) | [Java](src/main/java/com/github/pareronia/codeforces/_1791/f/Main.java) |
 | 2178_A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/_2178/a/Main.java) |
+| 2178_B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/_2178/b/Main.java) |
 | 373203_A | [Coins for friends](https://codeforces.com/gym/373203/problem/A) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_373203/a/Main.java) |
 | 373203_B | [Road to be Legend](https://codeforces.com/gym/373203/problem/B) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_373203/b/Main.java) |
 | 373203_C | [Pair of numbers](https://codeforces.com/gym/373203/problem/C) | [Java](src/main/java/com/github/pareronia/codeforces/gym/_373203/c/Main.java) |
